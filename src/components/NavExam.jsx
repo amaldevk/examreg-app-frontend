@@ -16,7 +16,7 @@ const NavExam = () => {
           <Link className="nav-link active" aria-current="page" to="/add">ADD</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="#">VIEW</Link>
+          <Link className="nav-link" to="/view">VIEW</Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="#">SEARCH</Link>
