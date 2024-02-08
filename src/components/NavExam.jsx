@@ -19,7 +19,7 @@ const NavExam = () => {
           <Link className="nav-link" to="/view">VIEW</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="#">SEARCH</Link>
+          <Link className="nav-link" to="/search">SEARCH</Link>
         </li>
       </ul>
       <form className="d-flex" role="search">
